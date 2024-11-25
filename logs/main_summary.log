@@ -1,0 +1,25 @@
+2023-10-19 22:13:39,546:INFO:Dash is running on http://127.0.0.1:8050/
+
+2023-10-19 22:13:39,563:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+2023-10-19 22:13:39,563:INFO:[33mPress CTRL+C to quit[0m
+2023-10-19 22:13:53,740:INFO:127.0.0.1 - - [19/Oct/2023 22:13:53] "GET /main_summary HTTP/1.1" 200 -
+2023-10-19 22:13:53,772:INFO:127.0.0.1 - - [19/Oct/2023 22:13:53] "[36mGET /assets/01_first.css?m=1685383217.5028317 HTTP/1.1[0m" 304 -
+2023-10-19 22:13:54,133:INFO:127.0.0.1 - - [19/Oct/2023 22:13:54] "GET /_dash-layout HTTP/1.1" 200 -
+2023-10-19 22:13:54,450:INFO:127.0.0.1 - - [19/Oct/2023 22:13:54] "GET /_dash-dependencies HTTP/1.1" 200 -
+2023-10-19 22:13:54,493:INFO:127.0.0.1 - - [19/Oct/2023 22:13:54] "GET /_favicon.ico?v=2.14.0 HTTP/1.1" 200 -
+2023-10-19 22:13:54,796:INFO:127.0.0.1 - - [19/Oct/2023 22:13:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2023-10-19 22:13:55,120:INFO:127.0.0.1 - - [19/Oct/2023 22:13:55] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2023-10-19 22:13:55,120:INFO:127.0.0.1 - - [19/Oct/2023 22:13:55] "[36mGET /_dash-component-suites/dash/dash_table/async-highlight.js HTTP/1.1[0m" 304 -
+2023-10-19 22:13:55,130:INFO:127.0.0.1 - - [19/Oct/2023 22:13:55] "[36mGET /_dash-component-suites/dash/dash_table/async-table.js HTTP/1.1[0m" 304 -
+2023-10-19 22:13:55,143:INFO:127.0.0.1 - - [19/Oct/2023 22:13:55] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2023-10-19 22:15:21,343:INFO:Dash is running on http://127.0.0.1:8050/
+
+2023-10-19 22:15:21,357:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+2023-10-19 22:15:21,357:INFO:[33mPress CTRL+C to quit[0m
+2023-10-19 22:18:18,784:INFO:Dash is running on http://127.0.0.1:8050/
+
+2023-10-19 22:18:18,799:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+2023-10-19 22:18:18,799:INFO:[33mPress CTRL+C to quit[0m

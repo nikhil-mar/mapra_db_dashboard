@@ -1,0 +1,192 @@
+body {
+  background-color: #111111;
+  }
+
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box; }
+  .column,
+  .columns {
+    width: 100%;
+    float: left;
+    box-sizing: border-box; }
+  
+  /* For devices larger than 400px */
+  @media (min-width: 400px) {
+    .container {
+      width: 100%;
+      padding: 0; }
+  }
+  
+  /* For devices larger than 550px */
+  @media (min-width: 550px) {
+    .container {
+      width: 100%; }
+    .column,
+    .columns {
+      margin-left: 0%; }
+    .column:first-child,
+    .columns:first-child {
+      margin-left: 0; }
+  
+    .one.column,
+    .one.columns                    { width: 8.333%; }
+    .two.columns                    { width: 16.66%; }
+    .three.columns                  { width: 25%;            }
+    .four.columns                   { width: 33.33%; }
+    .five.columns                   { width: 41.66%; }
+    .six.columns                    { width: 50%;            }
+    .seven.columns                  { width: 58.33%; }
+    .eight.columns                  { width: 66.66%; }
+    .nine.columns                   { width: 75%;          }
+    .ten.columns                    { width: 83.33%; }
+    .eleven.columns                 { width: 91.66%; }
+    .twelve.columns                 { width: 100%; margin-left: 0; }
+  
+    .one-third.column               { width: 33.33%; }
+    .two-thirds.column              { width: 66.66%; }
+  
+    .one-half.column                { width: 50%; }
+  }
+
+.drop-zone-dropdown {
+    background: #111111;
+    margin: 1rem;
+    /*width:380px*/
+}
+
+.Select-control {
+  background-color: rgb(25, 25, 25) !important;
+  color:black;
+}
+
+.Select-menu-outer {
+  background-color: rgb(25, 25, 25);
+  color:#7FDBFF;
+}
+
+.Select-input {
+  background-color: rgb(25, 25, 25);
+  color:#7FDBFF;
+}
+
+.Select-value-label {
+  background-color: rgb(25, 25, 25);
+color:#7FDBFF !important;
+}
+
+#surname_dropdown_1 > .zone-dropdown {
+  background: #111111;
+  margin: 1rem;
+  /*width:380px*/
+}
+
+#surname_dropdown_1 .zone-dropdown .Select-control {
+  background-color: rgb(25, 25, 25) !important;
+  color:black;
+}
+
+#surname_dropdown_1 .zone-dropdown .Select-input {
+  background-color: rgb(25, 25, 25);
+  color:#7FDBFF;
+}
+
+
+#surname_dropdown_1 .zone-dropdown .Select-menu-outer {
+  background-color: rgb(25, 25, 25);
+  color:#7FDBFF;
+}
+
+#surname_dropdown_1 .zone-dropdown .Select-value-label {
+  background-color: rgb(25, 25, 25);
+color:#7FDBFF !important;
+}
+
+
+
+#surname_dropdown_2 > .zone-dropdown-1 {
+  background: #111111;
+  margin: 1rem;
+  /*width:380px*/
+}
+
+#surname_dropdown_2 .zone-dropdown-1 .Select-control {
+  background-color: rgb(25, 25, 25) !important;
+  color:black;
+}
+
+#surname_dropdown_2 .zone-dropdown-1 .Select-input {
+  background-color: rgb(25, 25, 25);
+  color:#7FDBFF;
+}
+
+
+#surname_dropdown_2 .zone-dropdown-1 .Select-menu-outer {
+  background-color: rgb(25, 25, 25);
+  color:#7FDBFF;
+}
+
+#surname_dropdown_2 .zone-dropdown-1 .Select-value-label {
+  background-color: rgb(25, 25, 25);
+color:#7FDBFF !important;
+}
+
+
+#surname_dropdown > .zone-dropdown {
+  background: #111111;
+  margin: 1rem;
+  /*width:380px*/
+}
+
+#surname_dropdown .drop-zone-dropdown .Select-control {
+  background-color: rgb(25, 25, 25) !important;
+  color:black;
+}
+
+#surname_dropdown .drop-zone-dropdownn .Select-input {
+  background-color: rgb(25, 25, 25);
+  color:#7FDBFF;
+}
+
+
+#surname_dropdown .drop-zone-dropdown .Select-menu-outer {
+  background-color: rgb(25, 25, 25);
+  color:#7FDBFF;
+}
+
+#surname_dropdown .drop-zone-dropdown .Select-value-label {
+  background-color: rgb(25, 25, 25);
+color:#7FDBFF !important;
+}
+
+
+#surname_dropdown_3 > .zone-dropdown-2 {
+  background: #111111;
+  margin: 1rem;
+  /*width:380px*/
+}
+
+#surname_dropdown_3 .zone-dropdown-2 .Select-control {
+  background-color: rgb(25, 25, 25) !important;
+  color:black;
+}
+
+#surname_dropdown_3 .zone-dropdown-2 .Select-input {
+  background-color: rgb(25, 25, 25);
+  color:#7FDBFF;
+}
+
+
+#surname_dropdown_3 .zone-dropdown-2 .Select-menu-outer {
+  background-color: rgb(25, 25, 25);
+  color:#7FDBFF;
+}
+
+#surname_dropdown_3 .zone-dropdown-2 .Select-value-label {
+  background-color: rgb(25, 25, 25);
+color:#7FDBFF !important;
+}
